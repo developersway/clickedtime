@@ -1,0 +1,38 @@
+#cn{
+    background-color:brown;
+    
+    padding: 10 px;
+    height: 200px;
+    width: 200px;
+    position: relative;
+}
+
+h1{
+    text-align: center;
+    color: black;
+}
+div{
+    text-align: center;
+    color: darkgreen;
+    font-size: 26px;
+}
+#kk{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+    color: darkgreen;
+}
+
+#ll{
+    color: darkmagenta;
+    font-size: 26px;
+    text-align: center;
+    
+}
+
+#time{
+    color: brown;
+    font-size: 20px;
+}
